@@ -5,7 +5,7 @@
  * @list: Lista arguments
  * @tipos: Tipos que nos trae el JSON
  * @format: Formato
- * Return: Len
+ * Return: len
 */
 int opFunction(int cont, va_list list, typedate tipos[], const char *format)
 {
